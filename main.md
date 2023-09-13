@@ -38,7 +38,7 @@ Product documentations are the fundamental building blocks of any product, yet t
     <td>Survey complete<br>Progress: 10%</td>
     <td>
       <a href="survey.pdf">Survey</a><br>
-      <a href="slides-1.pdf">Slides</a>
+      <a href="slides-1.pdf">Presentation Slides</a>
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ Product documentations are the fundamental building blocks of any product, yet t
     <td>Proposal submitted<br>Progress: 20%</td>
     <td>
       <a href="proposal.pdf">Proposal</a><br>
-      <a href="slides-2.pdf">Slides</a>
+      <a href="slides-2.pdf">Presentation Slides</a>
     </td>
   </tr>  
 </table>
