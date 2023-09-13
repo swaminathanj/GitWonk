@@ -35,7 +35,7 @@ Product documentations are the fundamental building blocks of any product, yet t
   <tr>
     <td>1. Literature study</td>
     <td>dd-mm-yyyy</td>
-    <td>Literature review<br>10% complete</td>
+    <td>Survey complete<br>Progress: 10%</td>
     <td>
       <a href="survey.pdf">Survey</a><br>
       <a href="slides-1.pdf">Slides</a>
@@ -44,7 +44,7 @@ Product documentations are the fundamental building blocks of any product, yet t
   <tr>
     <td>2. Problem definition</td>
     <td>dd-mm-yyyy</td>
-    <td>Proposal submitted<br>20% complete</td>
+    <td>Proposal submitted<br>Progress: 20%</td>
     <td>
       <a href="proposal.pdf">Proposal</a><br>
       <a href="slides-2.pdf">Slides</a>
