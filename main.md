@@ -27,7 +27,7 @@ Product documentations are the fundamental building blocks of any product, yet t
 
 <table>
   <tr>
-    <th>Review number</th>
+    <th>Milestone review</th>
     <th>Review date</th>
     <th>Panel members</th>
     <th>Project status</th>
