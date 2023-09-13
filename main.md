@@ -27,19 +27,22 @@ Product documentations are the fundamental building blocks of any product, yet t
 
 <table>
   <tr>
-    <th>Review<br>number</th>
-    <th>Date of<br>review<th>
+    <th>Review number</th>
+    <th>Review date<th>
     <th>Project status</th>
+    <th>Deliverables</th>
   </tr>
   <tr>
     <td>1</td>
     <td>dd/mm/yyyy</td>
-    <td>Problem defined</td>
+    <td>Literature review complete</td>
+    <td>[Survey](survey.pdf)</td>
   </tr>
   <tr>
     <td>2</td>
     <td>dd/mm/yyyy</td>
     <td>Problem defined</td>
+    <td>[Proposal](proposal.pdf)</td>
   </tr>  
 </table>
 
