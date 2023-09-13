@@ -36,13 +36,19 @@ Product documentations are the fundamental building blocks of any product, yet t
     <td>1. Literature study</td>
     <td>dd-mm-yyyy</td>
     <td>Literature review</td>
-    <td><a href="survey.pdf">Survey</a></td>
+    <td>
+      <a href="survey.pdf">Survey</a>
+      <a href="slides.pdf">Slides</a>
+    </td>
   </tr>
   <tr>
     <td>2. Problem definition</td>
     <td>dd-mm-yyyy</td>
     <td>Problem defined</td>
-    <td><a href="proposal.pdf">Proposal</a></td>
+    <td>
+      <a href="proposal.pdf">Proposal</a>
+      <a href="slides.pdf">Slides</a>
+    </td>
   </tr>  
 </table>
 
