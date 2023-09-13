@@ -22,3 +22,24 @@ Product documentations are the fundamental building blocks of any product, yet t
     <td>Nayan Thara M</td>
   </tr>  
 </table>
+
+## Project Milestones
+
+<table>
+  <tr>
+    <th>Review<br>number</th>
+    <th>Date of<br>review<th>
+    <th>Project status</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>dd/mm/yyyy</td>
+    <td>Problem defined</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>dd/mm/yyyy</td>
+    <td>Problem defined</td>
+  </tr>  
+</table>
+
