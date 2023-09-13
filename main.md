@@ -33,13 +33,13 @@ Product documentations are the fundamental building blocks of any product, yet t
     <th>Deliverables</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>1. Literature study</td>
     <td>dd-mm-yyyy</td>
-    <td>Literature review complete</td>
+    <td>Literature review</td>
     <td><a href="survey.pdf">Survey</a></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>2. Problem definition</td>
     <td>dd-mm-yyyy</td>
     <td>Problem defined</td>
     <td><a href="proposal.pdf">Proposal</a></td>
