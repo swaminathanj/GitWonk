@@ -37,8 +37,8 @@ Product documentations are the fundamental building blocks of any product, yet t
     <td>dd-mm-yyyy</td>
     <td>Literature review</td>
     <td>
-      <a href="survey.pdf">Survey</a>
-      <a href="slides.pdf">Slides</a>
+      <a href="survey.pdf">Survey</a><br>
+      <a href="slides-1.pdf">Slides</a>
     </td>
   </tr>
   <tr>
@@ -46,8 +46,8 @@ Product documentations are the fundamental building blocks of any product, yet t
     <td>dd-mm-yyyy</td>
     <td>Problem defined</td>
     <td>
-      <a href="proposal.pdf">Proposal</a>
-      <a href="slides.pdf">Slides</a>
+      <a href="proposal.pdf">Proposal</a><br>
+      <a href="slides-2.pdf">Slides</a>
     </td>
   </tr>  
 </table>
